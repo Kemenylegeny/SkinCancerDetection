@@ -1,7 +1,7 @@
 
 # Skin Cancer Detection
 
-This repository contains code for a project focused on differentiating between benign and malignant cases of melanoma based on phone camera pictures. It is based on the ISIC 2024 - Skin Cancer Detection with 3D-TBP challenge. [Kaggle Competition Link](https://www.kaggle.com/competitions/isic-2024-challenge/).
+This repository contains code for a project focused on differentiating between benign and malignant cases of melanoma based on phone camera pictures. It is based on the[ISIC 2024 - Skin Cancer Detection with 3D-TBP challenge](https://www.kaggle.com/competitions/isic-2024-challenge/).
 
 ## Team
 **DLBoyz**  
